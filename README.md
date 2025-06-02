@@ -1,16 +1,16 @@
-## Hi there 👋
+💫 About Me:
+🔭 I’m currently working on Javascript
+🌱 I’m currently learning React
+💬 Ask me about basic HTML and CSS
 
-<!--
-**manishhh08/manishhh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+LinkedIn
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+HTML5 JavaScript CSS3 jQuery React Figma GitHub Bitbucket Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
