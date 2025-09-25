@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React<br>🌱 I’m currently learning Node<br>💬 Ask me about basic HTML, CSS and JavaScript
+🔭 I’m currently working on creating a ecommerce website on both frontend and backend<br>🌱 I’m currently learning Node<br>💬 Ask me about basic HTML, CSS, JavaScript, React and Nodejs.
 
 
 ## 🌐 Socials:
